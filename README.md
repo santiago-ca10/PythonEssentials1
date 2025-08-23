@@ -1,1 +1,3 @@
-es el curso de python esetntials de oracle 
+# FUNDAMENTOS DE PYTHON
+
+Es el curso de python esetntials de oracle 
